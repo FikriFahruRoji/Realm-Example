@@ -1,7 +1,9 @@
-package id.fikri.testrealmdatabase;
+package id.fikri.testrealmdatabase.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import id.fikri.testrealmdatabase.R;
 
 public class MainActivity extends AppCompatActivity {
 

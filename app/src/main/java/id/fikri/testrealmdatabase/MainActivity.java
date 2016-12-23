@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
                                 String artTitle =  editTitle.getText().toString();
                                 String artDesc =  editDesc.getText().toString();
 
-                                helper.addArticle(artId, artTitle, artDesc);
+                                helper.updateArticle(artId, artTitle, artDesc);
 
                                 setRecyclerView();
                             }
